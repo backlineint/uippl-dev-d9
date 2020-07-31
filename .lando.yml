@@ -1,0 +1,4 @@
+name: uippl-dev-d9
+recipe: drupal8
+config:
+  webroot: web
