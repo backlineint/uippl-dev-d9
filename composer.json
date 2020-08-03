@@ -32,7 +32,7 @@
         "sort-packages": true
     },
     "scripts": {
-      "test": "phpunit"
+      "test": "phpunit --testsuite=uippl"
     },
     "extra": {
         "drupal-scaffold": {
